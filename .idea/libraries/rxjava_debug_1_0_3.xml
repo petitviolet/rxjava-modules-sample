@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="rxjava-debug-1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava-debug/1.0.3/91ade4db2c1dff12bead002ecc7e5e48106ca835/rxjava-debug-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava-debug/1.0.3/40ed6b96974428a16d9be674423488fba862db23/rxjava-debug-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
